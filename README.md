@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>Hello wolrd Davi, a Computer Science student.<br><br>- 💻 Learning Java and backend development  <br>- 🚀 Building projects to improve my skills  <br>- 📚 Always studying and exploring new technologies  <br>- 🎯 Goal: become a strong backend developer and work remotely  <br>
+## 👨‍💻 About Me<br><br>Hello wolrd Davi, a Computer Science student.
 
 
 ## 🌐 Socials:
