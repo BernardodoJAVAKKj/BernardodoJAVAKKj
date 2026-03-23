@@ -1,5 +1,3 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hello wolrd Davi, a Computer Science student.
 
 
 ## 🌐 Socials:
