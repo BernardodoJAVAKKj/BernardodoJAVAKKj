@@ -5,15 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/img/showcase/terminal.gif" width="500" alt="terminal animation" onerror="this.style.display='none'">
+  <samp style="font-size: 60px;">🕷️🕸️</samp>
 </p>
 
+<p align="center"><i>Tecendo código, uma linha por vez</i></p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/davi-bernardo-souza-95243532b/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/BernardodoJAVAKKj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -53,16 +55,6 @@ public class DaviBernardo {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardodoJAVAKKj&theme=radical&hide_border=true&layout=compact" width="55%" />
-</p>
-
----
-
-### 🚀 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/BernardodoJAVAKKj/SchemaGuard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BernardodoJAVAKKj&repo=SchemaGuard&theme=radical&hide_border=true" />
-  </a>
 </p>
 
 ---
