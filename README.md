@@ -1,13 +1,74 @@
+<h1 align="center">Olá, eu sou o Davi Bernardo 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EE881&center=true&vCenter=true&width=600&lines=Davi+Bernardo+Souza;Desenvolvedor+Back-End+J%C3%BAnior;Java+%7C+Spring+Boot+%7C+Docker;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BernardodoJAVAKKj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BernardodoJAVAKKj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardodoJAVAKKj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/img/showcase/terminal.gif" width="500" alt="terminal animation" onerror="this.style.display='none'">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL-AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BernardodoJAVAKKj&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 Sobre mim
+
+```java
+public class DaviBernardo {
+    private String formacao = "Ciência da Computação - Unileste";
+    private String foco = "Desenvolvimento Back-End";
+    private String[] interesses = {"Java", "Spring Boot", "Arquitetura de Software"};
+    private boolean abertoAOportunidades = true;
+
+    public static void main(String[] args) {
+        System.out.println("Buscando minha primeira oportunidade como Dev Back-End Júnior!");
+    }
+}
+```
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,mongodb,git,github,gitlab,maven,html,css,js,jenkins&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardodoJAVAKKj&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardodoJAVAKKj&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardodoJAVAKKj&theme=radical&hide_border=true&layout=compact" width="55%" />
+</p>
+
+---
+
+### 🚀 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/BernardodoJAVAKKj/SchemaGuard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BernardodoJAVAKKj&repo=SchemaGuard&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BernardodoJAVAKKj&label=Visualizações+no+perfil&color=2EE881&style=flat" alt="visitor count" />
+</p>
+
+<p align="center"><i>Feito com ☕ e muito Java</i></p>
