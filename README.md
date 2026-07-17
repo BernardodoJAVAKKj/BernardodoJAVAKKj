@@ -42,12 +42,6 @@ public class DaviBernardo {
 }
 ```
 
-- 🎓 Estudante de Ciência da Computação, construindo uma base sólida em back-end desde o início da faculdade
-- 🔭 Foco atual: **multi-tenancy, arquitetura em camadas, mensageria com Kafka e containerização com Docker**
-- 🌌 Nas horas vagas, estudo astrofísica de verdade — métrica de Schwarzschild, lentes gravitacionais, radiação Hawking (sim, é hobby mesmo 😄)
-- 🗣️ Aprendendo **inglês** (carreira) e **italiano** (herança) em paralelo, com foco em imersão prática
-- 🏋️ Treino com foco em hipertrofia e tenho interesse em aviação
-- 💬 Pergunte-me sobre Spring Boot, arquitetura de APIs, Docker ou... buracos negros
 
 <br/>
 
